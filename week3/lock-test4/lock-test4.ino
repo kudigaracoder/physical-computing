@@ -1,4 +1,3 @@
-
 // Assigning the buttons
 const int RedButton = 2;
 const int GreenButton = 4;
