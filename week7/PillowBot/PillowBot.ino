@@ -9,9 +9,9 @@
 
 //#include "TelegramBot.ino"
 
-const char* ssid = "MFA IxD";    //  your network SSID (name)
-const char* password = "1nter@ct10n";  // your network password
-const char BotToken[] = "760862414:AAG3erPEmUPEXEd1SaCmKPyW3JA0SSTxNu0"; // you bot API token
+const char* ssid = "";    //  your network SSID (name)
+const char* password = "";  // your network password
+const char BotToken[] = ""; // you bot API token
 
 
 WiFiSSLClient client;
